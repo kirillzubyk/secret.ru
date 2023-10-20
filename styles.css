@@ -1,0 +1,21 @@
+footer {
+    background: gray;
+    color: white;
+}
+h1 {
+    color: rgb(1, 8, 8);
+    margin-left: 50px;
+    text-decoration: dotted;
+}
+h1:hover {
+    color: aqua;
+    letter-spacing: 10px;
+    background: yellow;
+
+}
+video:hover {
+    grid-auto-columns: auto;
+
+}
+
+
